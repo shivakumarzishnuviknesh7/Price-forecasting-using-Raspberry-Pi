@@ -57,3 +57,6 @@ st.plotly_chart(fig)
 st.write("### Forecast Components")
 components_fig = prophet.plot_components(predictions)
 st.write(components_fig)
+
+
+#usb stick
